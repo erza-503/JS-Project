@@ -1,10 +1,11 @@
+import {Router, Routes} from "react-router-dom"
+
+
 const App = () => {
 
   return(
-    <div>
-      <h1>hellow broo</h1>
-    </div>
-  )
+    <Router />
+   )
 }
 
 export default App;
